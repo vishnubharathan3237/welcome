@@ -8,3 +8,9 @@ this is a new branch
 i am going to add this and commit
 
 I go to Lone Star High School
+
+Classes:
+GT Humanities
+Computer Science
+Pre Calculus
+Principles of Engineering
